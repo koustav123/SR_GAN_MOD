@@ -1,0 +1,4 @@
+data/*
+training_results/*
+benchmark_results/*
+epochs/*
